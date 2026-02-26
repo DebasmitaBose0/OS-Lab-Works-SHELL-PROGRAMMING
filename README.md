@@ -1,4 +1,4 @@
-# Shell Programming Laboratory  
+# Shell Programming Lab
 ## Assignments 1, 2 and 3
 
 ---
@@ -53,4 +53,5 @@ chmod +x program.sh
 
 ---
 
-_End of **README**_
+## Author
+Debasmita Bose,B.Tech CSE (3rd yr)
